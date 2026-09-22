@@ -1,3 +1,13 @@
+```text
+ _____                 _ _   _____ _           _           
+| ____|_ __ ___   __ _(_) | |  ___(_)_ __   __| | ___ _ __ 
+|  _| | '_ ` _ \ / _` | | | | |_  | | '_ \ / _` |/ _ \ '__|
+| |___| | | | | | (_| | | | |  _| | | | | | (_| |  __/ |   
+|_____|_| |_| |_|\__,_|_|_| |_|   |_|_| |_|\__,_|\___|_|   
+
+        PUBLIC CONTACT EMAIL FINDER // GUI EDITION
+```
+
 # Email Finder
 
 A Python-based GUI tool for discovering public contact emails using Google search results via the Serper.dev API.
@@ -91,7 +101,7 @@ Enter a search query, select the number of result pages, and click **RUN SEARCH*
 
 Use this tool only for lawful, ethical research and public-contact discovery. Respect privacy, website terms of service, applicable laws, and anti-spam regulations. Do not use discovered addresses for unsolicited messages, harassment, or abuse.
 
-## Project File
+## Project Files
 
 - `Email-Finder.py` — main GUI application
 - `README.md` — setup and usage documentation
